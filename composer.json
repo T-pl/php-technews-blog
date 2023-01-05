@@ -1,0 +1,17 @@
+{
+  "name": "ceounset/technewsblog",
+  "description": "Site desenvolvido para treinamento de PHP",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "sistema": "sistema/"
+    }
+  },
+  "authors": [
+    {"name": "Tiago Ferreira"}
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">= 8.0"
+  }
+}
